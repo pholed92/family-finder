@@ -4,13 +4,23 @@
 
 ## 다운로드
 
-**[최신 APK 다운로드 — 1.1.0](https://github.com/pholed92/family-finder/releases/download/v1.1.0/family-finder-1.1.0.apk)**
+**[최신 APK 다운로드 — 1.1.1](https://github.com/pholed92/family-finder/releases/download/v1.1.1/family-finder-1.1.1.apk)**
 
 - [릴리스와 서버 설치 파일](https://github.com/pholed92/family-finder/releases/tag/v1.1.0)
 - [서버 ZIP](https://github.com/pholed92/family-finder/releases/download/v1.1.0/family-finder-server-1.1.0.zip)
 - [체크섬](https://github.com/pholed92/family-finder/releases/download/v1.1.0/SHA256SUMS.txt)
 
 휴대폰에서 APK를 받아 열고 설치하세요. 이전 버전 위에 업데이트할 수 있습니다. Android 8.0 이상, 최신 Android System WebView와 Google Play 서비스가 필요합니다.
+
+## 1.1.1 · API 36 대응
+
+- compileSdk/targetSdk 36, Android 16 기준
+- 최소 지원 Android 8.0(API 26) 유지
+- 상태바·화면 잘림 영역·키보드 여백 처리 개선
+- 기존 서명을 유지한 APK와 스토어 업로드용 서명 AAB 생성
+- AAB 구조·서명·16KB 네이티브 라이브러리 및 APK 정렬 검증 완료
+
+[1.1.1 릴리스](https://github.com/pholed92/family-finder/releases/tag/v1.1.1) · 스토어용 서명 AAB는 로컬 release/family-finder-1.1.1.aab에 보관했습니다.
 
 ## 1.1.0에서 바뀐 점
 
